@@ -1,2 +1,1 @@
-# RedditScorePrediction-Technocolabs-Internship
-Techonocolabs-MiniProject
+# Techonocolabs-MiniProject
